@@ -12,4 +12,4 @@ echo "YOUR AOCD TOKEN HERE" > $HOME/.config/aocd/token
 ```
 
 # Run
-`poetry run jupyter notebook`
+`poetry run jupyter lab`
