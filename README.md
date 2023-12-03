@@ -12,4 +12,9 @@ echo "YOUR AOCD TOKEN HERE" > $HOME/.config/aocd/token
 ```
 
 # Run
+
+## Locally
 `poetry run jupyter lab`
+
+## On Github
+Just select the virtual environment created by Jupyter and open a notebook.
