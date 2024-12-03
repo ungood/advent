@@ -5,12 +5,12 @@ description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
-advent-of-code-data = "^1.1.1"
+python = "^3.9"
+advent-of-code-data = "^2.0.4"
 pyparsing = "^3.0.9"
 
 [tool.poetry.dev-dependencies]
-jupyterlab = "^3.2.4"
+jupyterlab = "^4.3.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
